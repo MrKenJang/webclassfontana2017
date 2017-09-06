@@ -1,0 +1,7 @@
+<body>
+<details>
+<summary>Web Design Class 2017</summary>
+<p>-Class Starts: March 12, Sunday 1:30pm</p>
+<p>-7301 Chery Ave, Fontana, CA, 92336, Concord 2F</p>
+</details>
+</body>

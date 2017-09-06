@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+.box {
+  position: relative;
+  width: 60%;
+  text-align:center;
+}
+
+.image {
+  display: block;
+  width: 100%;
+}
+
+.pop {
+  position: absolute;
+  bottom: 70%;
+  background-color: purple;
+  overflow: hidden;
+  width: 100%;
+  transition: 2s ease;
+}
+
+.box:hover .pop {
+  bottom: 10%;
+  height: 20%;
+}
+
+.text {
+  font-size: 40px;
+  color: yellow;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+</style>
+</head>
+
+<body>
+<div class="box" align="center">
+  <img class="image" src="images\s1.jpg">
+  <div class="pop">
+    <div class="text">I dream to go to Space!!!</div>
+  </div>
+</div>
+</body>
+</html>

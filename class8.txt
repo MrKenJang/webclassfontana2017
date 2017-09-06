@@ -1,0 +1,12 @@
+<!DOCTYPE text>
+
+<div class="box">
+
+<img class="image" src="s1.jpg">
+
+<div class="pop">
+
+	<div class="text">
+	    Dream to Space!</div>
+</div>
+</div>
